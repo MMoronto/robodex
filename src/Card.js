@@ -3,8 +3,8 @@ import React from 'react';
 const Card = ({ name, email, id }) => {
 	return (
 			<div className='tc bg-light-red dib br3 pa3 ma2 grow bw2 shadow-5'>
-				<h1>Robodex</h1>
-				<h3>Rolodex for your robot buddies</h3>
+				{/* <h1>Robodex</h1>
+				<h3>Rolodex for your robot buddies</h3> */}
 
 				<img alt='robots' src={`https://robohash.org/${id}?200x200`} />
 				<div>
