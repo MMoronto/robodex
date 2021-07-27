@@ -22,5 +22,41 @@ export const robots = [
 		name: 'Fred Jons',
 		username: "Fredo",
 		email: 'ffj@danube.net' 
+	},
+	{
+		id: 5,
+		name: 'Aaron Nevilux',
+		username: "Kube",
+		email: 'bart@ant.org' 
+	},
+	{
+		id: 6,
+		name: 'Dalid Dweicz',
+		username: "Zootsie",
+		email: 'zdd@sus.org' 
+	},
+	{
+		id: 7,
+		name: 'Prester Seshemi',
+		username: "Daikon",
+		email: 'taikonautj@roscos.ru' 
+	},
+	{
+		id: 8,
+		name: 'Date Masamune',
+		username: "One eyed dragon",
+		email: 'Date@odawara.org' 
+	},
+	{
+		id: 9,
+		name: 'Takeda Shingen',
+		username: "Old Dog",
+		email: 'Shinobi1@sus.ai' 
+	},
+	{
+		id: 10,
+		name: 'Oda Nobutada',
+		username: "Oda Secundus",
+		email: 'odaoda@edo.daimyo' 
 	}
 ]
