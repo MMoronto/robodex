@@ -2,11 +2,13 @@
 
 @font-face {
     font-family: "STARWARS";
-    src: url("STARWARS.eot?") format("eot"), url("STARWARS.woff") format("woff"), url("STARWARS.ttf") format("truetype"), url("STARWARS.svg#STARWARS") format("svg");
+    src: local('STARWARS'), url("STARWARS.woff") format("woff");
     font-weight:normal;
     font-style:normal;
 }
 
 h1 {
     font-family: 'STARWARS';
+    font-weight: 200;
+    color: rgb(46, 11, 11);
 }
