@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import CardList from './CardList';
 import SearchBox from './SearchBox';
 import { robots } from './robots';
-import { render } from 'react-dom';
+// import { render } from 'react-dom';
 
 class App extends Component {
     constructor() {
